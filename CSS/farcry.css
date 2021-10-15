@@ -1,0 +1,25 @@
+body {
+    color: white;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 19px;
+}
+
+#Titulo {
+    text-align: center;
+}
+
+#corpo {
+    margin-right: 29px;
+    margin-left: 26px;
+}
+
+#It {
+    color: rgba(255, 255, 255, 0.829);
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(70, 70, 218);
+}
